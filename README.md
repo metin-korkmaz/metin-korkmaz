@@ -1,4 +1,4 @@
-[# Hi, I'm Metin 👋
+# Hi, I'm Metin 👋
 
 **Data Scientist & ML Engineer** based in Istanbul.
 I build high-signal AI tools, automate workflows with n8n, and write about the intersection of Finance & ML.

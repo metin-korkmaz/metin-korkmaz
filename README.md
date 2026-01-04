@@ -1,4 +1,4 @@
-# Hi, I'm Metin 👋
+[# Hi, I'm Metin 👋
 
 **Data Scientist & ML Engineer** based in Istanbul.
 I build high-signal AI tools, automate workflows with n8n, and write about the intersection of Finance & ML.
@@ -40,3 +40,4 @@ I build high-signal AI tools, automate workflows with n8n, and write about the i
 <!-- Socials with Logos -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metin-samet-korkmaz))
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@metin.korkmaz))
+](https://github.com/metin-korkmaz/metin-korkmaz)

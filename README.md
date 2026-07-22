@@ -33,7 +33,6 @@ MSc IT @ YTU · Based in Istanbul.
 ![Account Age](https://img.shields.io/badge/GitHub%20Since-2018-blue?style=flat-square)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=metin-korkmaz&theme=default" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=metin-korkmaz&theme=default" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=metin-korkmaz&theme=default" width="49%" />
 

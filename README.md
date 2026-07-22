@@ -25,10 +25,17 @@ MSc IT @ YTU · Based in Istanbul.
 
 ---
 
-### GitHub Stats
+### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=metin-korkmaz&show_icons=true&hide_border=true&theme=default" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metin-korkmaz&layout=compact&hide_border=true&theme=default" height="165" />
+![Followers](https://img.shields.io/github/followers/metin-korkmaz?label=Followers&style=flat-square&color=blue)
+![Repos](https://img.shields.io/badge/Repos-6-blue?style=flat-square)
+![Stars](https://img.shields.io/github/stars/metin-korkmaz/sgnl?label=SGNL%20Stars&style=flat-square&color=yellow)
+![Account Age](https://img.shields.io/badge/GitHub%20Since-2018-blue?style=flat-square)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=metin-korkmaz&theme=default" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=metin-korkmaz&theme=default" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=metin-korkmaz&theme=default" width="49%" />
 
 ---
 
